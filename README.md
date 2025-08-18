@@ -5,7 +5,7 @@
 </p>
 
 <details>
-  <summary>🗂️ Table of Contents</summary>
+  <summary>🗂️ <b>Table of Contents</b></summary>
   <ol>
     <li><a href="#surveys">Surveys</a></li>
     <li><a href="#informal-reasoning---intuitive-cognition-and-social-behavior">Informal Reasoning - Intuitive Cognition and Social Behavior</a></li>
