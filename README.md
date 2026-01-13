@@ -4,6 +4,8 @@
     <b> Welcome! This repository is a curated collection of research works on LLM reasoning failures.</b>
 </p>
 
+🚩**News**: Our paper is accepted to the Transactions on Machine Learning Research (TMLR), 2026, with a **Survey Certificate**.
+
 <details>
   <summary>🗂️ <b>Table of Contents</b></summary>
   <ol>
