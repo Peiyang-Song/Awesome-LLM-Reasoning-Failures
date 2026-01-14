@@ -32,7 +32,7 @@
   </ol>
 </details>
 
-![Image](https://github.com/user-attachments/assets/d3f2634b-ea0c-4b3b-98ab-9157d746e7cd)
+![Image](https://github.com/user-attachments/assets/0ed3892b-462a-483d-bec2-1ada7c4bf463)
 
 We welcome contributions - please feel free to open an issue or start a pull request if you would like to add new works to this collection!
 
