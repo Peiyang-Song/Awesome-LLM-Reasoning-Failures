@@ -38,7 +38,13 @@ We welcome contributions - please feel free to open an issue or start a pull req
 
 ## Surveys
 
-1. **[TODO: Add our survey paper.]**
+1. **Large Language Model Reasoning Failures** `TMLR 2026` [[paper]](https://openreview.net/attachment?id=vnX1WHMNmz&name=pdf)
+
+   *Song, Peiyang and Han, Pengrui and Goodman, Noah*
+
+2. [Related] **Why Do Multi-Agent LLM Systems Fail?** `NeurIPS 2025` [[paper]](https://arxiv.org/abs/2503.13657)
+
+   *Cemri, Mert and Pan, Melissa Z. and Yang, Shuyi and Agrawal, Lakshya A. and Chopra, Bhavya and Tiwari, Rishabh and Keutzer, Kurt and Parameswaran, Aditya and Klein, Dan and Ramchandran, Kannan and Zaharia, Matei and Gonzalez, Joseph E. and Stoica, Ion*
 
 ## Informal Reasoning - Intuitive Cognition and Social Behavior
 
