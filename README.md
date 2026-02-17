@@ -823,6 +823,10 @@
 
    *Sun, Yiyou and Hu, Shawn and Zhou, Georgia and Zheng, Ken and Hajishirzi, Hannaneh and Dziri, Nouha and Song, Dawn*
 
+1. **Counting and algorithmic generalization with transformers** `arXiv preprint` [[paper]](https://arxiv.org/abs/2310.08661)
+
+   *Ouellette, Simon and Pfister, Rolf and Jud, Hansueli*
+
 ## Reasoning in Embodied Environments
 
 ### 1D - Text Based
@@ -988,6 +992,11 @@
 1. **DeepPHY: Benchmarking Agentic VLMs on Physical Reasoning** `arXiv 2025` [[paper]](https://www.arxiv.org/abs/2508.05405)
 
    *Xu, Xinrun and Bu, Pi and Wang, Ye and Karlsson, B{\"o}rje F and Wang, Ziming and Song, Tengtao and Zhu, Qi and Song, Jun and Ding, Zhiming and Zheng, Bo*
+
+1. **Out-of-Distribution Generalization in the ARC-AGI Domain: Comparing Execution-Guided Neural Program Synthesis and Test-Time Fine-Tuning** `arXiv 2025` [[paper]](https://arxiv.org/abs/2507.15877)
+
+   *Ouellette, Simon*
+
 
 ### 3D - Real-World
 
