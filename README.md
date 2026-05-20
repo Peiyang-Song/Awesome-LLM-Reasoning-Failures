@@ -13,7 +13,7 @@
     This repository accompanies the paper "<a href="https://www.arxiv.org/abs/2602.06176">Large Language Model Reasoning Failures</a>" (<b>TMLR 2026 Survey Certification</b>).
 </p>
 
-**Cite this paper:**
+If you find this work useful, please consider citing:
 ```
 @article{songllmreasoningfailures,
   title={Large Language Model Reasoning Failures},
