@@ -52,7 +52,7 @@ If you find this work useful, please consider citing:
     <img src="overview.png" width="100%" style="align:center;"/>
 </p>
 
-## Surveys
+## Relevant Surveys & Benchmarks for Reasoning Failures
 
 1. **Large Language Model Reasoning Failures** `TMLR 2026` [[paper]](https://www.arxiv.org/abs/2602.06176)
 
@@ -61,6 +61,8 @@ If you find this work useful, please consider citing:
 2. [Related] **Why Do Multi-Agent LLM Systems Fail?** `NeurIPS 2025` [[paper]](https://arxiv.org/abs/2503.13657)
 
    *Cemri, Mert and Pan, Melissa Z. and Yang, Shuyi and Agrawal, Lakshya A. and Chopra, Bhavya and Tiwari, Rishabh and Keutzer, Kurt and Parameswaran, Aditya and Klein, Dan and Ramchandran, Kannan and Zaharia, Matei and Gonzalez, Joseph E. and Stoica, Ion*
+
+3. [Related] **REFUTE**: Apache-2.0 benchmark for scientific critique & epistemic calibration on recent (2025–2026) science summaries. Separates critique skill from calibrated truthfulness (falsification, limitations, overclaims, missing-evidence refusal, confidence calibration, planted-flaw detection). [Leaderboard](https://huggingface.co/spaces/BGPT-OFFICIAL/refute-leaderboard) · [Technical report](https://huggingface.co/datasets/BGPT-OFFICIAL/refute/blob/main/TECHNICAL_REPORT.md) · [Integrators](https://huggingface.co/datasets/BGPT-OFFICIAL/refute/blob/main/INTEGRATORS.md)
 
 ## Informal Reasoning - Intuitive Cognition and Social Behavior
 
@@ -1077,8 +1079,3 @@ If you find our work useful, please consider citing [our paper](https://www.arxi
   journal={Transactions on Machine Learning Research}
 }
 ```
-
-
-## Benchmarks
-
-- [REFUTE](https://huggingface.co/datasets/BGPT-OFFICIAL/refute) — Apache-2.0 benchmark for scientific critique & epistemic calibration on recent (2025–2026) science summaries. Separates critique skill from calibrated truthfulness (falsification, limitations, overclaims, missing-evidence refusal, confidence calibration, planted-flaw detection). [Leaderboard](https://huggingface.co/spaces/BGPT-OFFICIAL/refute-leaderboard) · [Technical report](https://huggingface.co/datasets/BGPT-OFFICIAL/refute/blob/main/TECHNICAL_REPORT.md) · [Integrators](https://huggingface.co/datasets/BGPT-OFFICIAL/refute/blob/main/INTEGRATORS.md)
