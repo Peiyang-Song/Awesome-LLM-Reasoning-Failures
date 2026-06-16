@@ -1060,6 +1060,10 @@ If you find this work useful, please consider citing:
 
    *Williams, Sean and Huckle, James*
 
+1. **When More Thinking Hurts: Overthinking in LLM Test-Time Compute Scaling** `arXiv preprint` [[paper]](https://arxiv.org/abs/2604.10739)
+
+   *Zhou, Shu and Ling, Rui and Chen, Junan and Wang, Xin and Fan, Tao and Wang, Hao*
+
 1. **Reasoning with Transformer-based Models: Deep Learning, but Shallow Reasoning** `AKBC 2022` [[paper]](https://www.semanticscholar.org/paper/Reasoning-with-Transformer-based-Models%3A-Deep-but-Helwe-Clavel/8424082e3bf4792462eb112d7ebcecf5b0dc3613)
 
    *Helwe, Chadi and Clavel, Chloé and Suchanek, Fabian M.*
