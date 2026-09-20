@@ -1072,6 +1072,10 @@ If you find this work useful, please consider citing:
 
    *Borji, Ali*
 
+1. **A Taxonomy of Epistemic Failure Modes in Large Language Models** `Preprint 2026` [[paper]](https://doi.org/10.5281/zenodo.19042468)
+
+   *Bosch, Rolando*
+
 ## Citation
 
 If you find our work useful, please consider citing [our paper](https://www.arxiv.org/abs/2602.06176):
