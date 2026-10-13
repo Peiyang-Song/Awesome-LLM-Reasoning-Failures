@@ -900,6 +900,14 @@ If you find this work useful, please consider citing:
 1. **Auto-Bench: An Automated Benchmark for Scientific Discovery in LLMs** `arXiv preprint` [[paper]](https://arxiv.org/abs/2502.15224)
 
    *Chen, Tingting and Anumasa, Srinivas and Lin, Beibei and Shah, Vedant and Goyal, Anirudh and Liu, Dianbo*
+
+1. **SPaRC: A Spatial Pathfinding Reasoning Challenge** `EMNLP 2025` [[paper]](https://aclanthology.org/2025.emnlp-main.526/)
+
+   *Kaesberg, Lars Benedikt and Wahle, Jan Philip and Ruas, Terry and Gipp, Bela*
+
+1. **Mind the Gap Between Spatial Reasoning and Acting! Step-by-Step Evaluation of Agents With Spatial-Gym** `arXiv preprint` [[paper]](https://arxiv.org/abs/2604.09338)
+
+   *Kaesberg, Lars Benedikt and Yang, Tianyu and Bauer, Niklas and Ruas, Terry and Wahle, Jan Philip and Gipp, Bela*
    
 ### 2D - Perception Based
 
@@ -998,6 +1006,10 @@ If you find this work useful, please consider citing:
 1. **Out-of-Distribution Generalization in the ARC-AGI Domain: Comparing Execution-Guided Neural Program Synthesis and Test-Time Fine-Tuning** `arXiv 2025` [[paper]](https://arxiv.org/abs/2507.15877)
 
    *Ouellette, Simon*
+
+1. **Is Visual Prompting All You Need? Studying VLM Spatial Reasoning under Progressive Visual Scaffolds** `EMNLP 2026 Findings` [[paper]](https://arxiv.org/abs/2608.21170)
+
+   *Kaesberg, Lars Benedikt and Yang, Tianyu and Wunderlich, Florian Valentin and Ruas, Terry and Kurzawe, Daniel and Wahle, Jan Philip and Gipp, Bela*
 
 
 ### 3D - Real-World
