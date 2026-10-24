@@ -429,6 +429,10 @@ If you find this work useful, please consider citing:
 
    *Xu, Lin and Hu, Zhiyuan and Zhou, Daquan and Ren, Hongyu and Dong, Zhen and Keutzer, Kurt and Ng, See Kiong and Feng, Jiashi*
 
+1. **PerspectiveGap: A Benchmark for Multi-Agent Orchestration Prompting** `arXiv preprint` [[paper]](https://arxiv.org/abs/2606.08878)
+
+   *Sun, Youran and Ren, Xingyu and Zhang, Kejia and Liu, Xinpeng and Guo, Jiaxuan*
+
 ## Formal Reasoning -- Logic and Arithmetic
 
 ### Logic in Natural Languages
@@ -1087,6 +1091,10 @@ If you find this work useful, please consider citing:
 1. **A Taxonomy of Epistemic Failure Modes in Large Language Models** `Preprint 2026` [[paper]](https://doi.org/10.5281/zenodo.19042468)
 
    *Bosch, Rolando*
+
+1. **SciΠvot: Benchmarking Principal-Investigator Judgment at Pivotal Moments of Scientific AutoResearch Agents** `arXiv preprint` [[paper]](https://arxiv.org/abs/2610.21082)
+
+   *Sun, Youran and Ren, Xingyu and Yi, Chugang and Zhang, Kejia and Wu, Di and Cao, Yingkang and Zhou, Allen and Ye, Jianping and Liu, Suying and Guo, Jiaxuan and others*
 
 ## Citation
 
