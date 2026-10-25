@@ -1094,7 +1094,7 @@ If you find this work useful, please consider citing:
 
 1. **SciΠvot: Benchmarking Principal-Investigator Judgment at Pivotal Moments of Scientific AutoResearch Agents** `arXiv preprint` [[paper]](https://arxiv.org/abs/2610.21082)
 
-   *Sun, Youran and Ren, Xingyu and Yi, Chugang and Zhang, Kejia and Wu, Di and Cao, Yingkang and Zhou, Allen and Ye, Jianping and Liu, Suying and Guo, Jiaxuan and others*
+   *Sun, Youran and Ren, Xingyu and Yi, Chugang and Zhang, Kejia and Wu, Di and Cao, Yingkang and Zhou, Allen and Ye, Jianping and Liu, Suying and Guo, Jiaxuan and Du, Jianda and Ye, Weicheng and Liu, Kecheng and Zhang, Hefan and Wang, Haixin and Xiao, Jie and Yang, Eric and Yang, Haizhao*
 
 ## Citation
 
