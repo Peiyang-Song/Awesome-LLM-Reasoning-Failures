@@ -1070,6 +1070,10 @@ If you find this work useful, please consider citing:
 
    *Rezaei, MohammadHossein and Fu, Yicheng and Cuvin, Phil and Ziems, Caleb and Zhang, Yanzhe and Zhu, Hao and Yang, Diyi*
 
+1. **Think Twice, Act Once: Verifier-Guided Action Selection For Embodied Agents** `CVPR 2026 Findings` [[paper]](https://arxiv.org/abs/2605.12620)
+
+   *Singhi, Nishad and Bialas, Christian and Jauhri, Snehal and Prasad, Vignesh and Chalvatzaki, Georgia and Rohrbach, Marcus and Rohrbach, Anna*
+
 ## General/Case-by-Case Reasoning Failure Studies
 
 1. **Easy Problems That LLMs Get Wrong** `arXiv preprint` [[paper]](https://arxiv.org/abs/2405.19616)
