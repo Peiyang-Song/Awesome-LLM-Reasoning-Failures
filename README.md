@@ -92,6 +92,10 @@ If you find this work useful, please consider citing:
 
    *Upadhayay, Bibek and Behzadan, Vahid and Karbasi, Amin*
 
+1. **WMIP: A Working-Memory-Inspired Programmable Probe of Cumulative State Tracking in Large Language Models** `arXiv preprint` [[paper]](https://arxiv.org/abs/2603.27343)
+
+   *Hou, Dengzhe and Jiang, Lingyu and Li, Deng and Li, Zirui and Lin, Fangzhou and Yamada, Kazunori D*
+
 1. **In-Context Learning May Not Elicit Trustworthy Reasoning: A-Not-B Errors in Pretrained Language Models** `EMNLP 2024` [[paper]](https://arxiv.org/abs/2409.15454)
 
    *Han, Pengrui and Song, Peiyang and Yu, Haofei and You, Jiaxuan*
