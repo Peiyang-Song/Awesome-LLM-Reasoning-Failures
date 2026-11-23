@@ -381,6 +381,10 @@ If you find this work useful, please consider citing:
 1. **Investigating machine moral judgement through the Delphi experiment** `Nature Machine Intelligence 2025` [[paper]](https://www.nature.com/articles/s42256-024-00969-6)
 
    *Jiang, Liwei and Hwang, Jena D and Bhagavatula, Chandra and Bras, Ronan Le and Liang, Jenny T and Levine, Sydney and Dodge, Jesse and Sakaguchi, Keisuke and Forbes, Maxwell and Hessel, Jack and others*
+
+1. **Cross-Task Dissociation in Frontier Vision-Language Model Theory of Mind** `EMNLP 2026 Findings` [[paper]](https://arxiv.org/abs/2608.00261)
+
+   *Zhang, Kejia and Sun, Youran and Yi, Chugang and Yang, Haizhao*
    
 
 ### Explicit Social Reasoning
